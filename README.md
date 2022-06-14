@@ -1,4 +1,4 @@
-# Server---Client-Communication-Protocol
+# Server-Client Communication Protocol
 
 I have made a basic code to understand how thw server and client communication works.
 I have utilized websockets because they are one layer below HTTP communication but aloow two-way communication unlike HTTP. Along with which wesockets also is faster compared to socket.io
